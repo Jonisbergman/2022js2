@@ -1,0 +1,21 @@
+{
+  "name": "1-rest",
+  "version": "1.0.0",
+  "description": "e-commerce REST api",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2"
+  }
+}
